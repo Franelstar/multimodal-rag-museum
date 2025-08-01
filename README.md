@@ -64,20 +64,6 @@ python -m uvicorn src.api.main:app --host 0.0.0.0 --port 8000
 streamlit run src/frontend/app.py --server.port 8501
 ```
 
-### Configuration des secrets
-
-**Étape importante :** Ne jamais commiter vos tokens dans le code.
-
-1. Créez un fichier `.env` à la racine du projet :
-```bash
-HF_TOKEN=votre_token_huggingface_ici
-HF_API_TOKEN=votre_token_huggingface_ici
-```
-
-2. Le fichier `.env` est automatiquement ignoré par Git grâce au `.gitignore`.
-
-3. Pour les autres développeurs, copiez `.env.example` vers `.env` et configurez vos propres tokens.
-
 ### Accès aux services
 
 Une fois les services lancés :
@@ -162,7 +148,3 @@ Pour toute question ou problème :
 - Ouvrir une issue GitHub
 - Consulter la documentation dans `/docs`
 - Vérifier les logs d'application pour le debugging
-
----
-
-**Note** : Ce projet est conçu à des fins éducatives et de démonstration des capacités MLOps modernes appliquées à l'intelligence artificielle multimodale.
