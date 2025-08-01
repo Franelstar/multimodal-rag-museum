@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/e2ef6e2ddc3e4cafbdd69c069192edb5/artifacts
+end_time: 1754056493423
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: e2ef6e2ddc3e4cafbdd69c069192edb5
+run_name: silent-bear-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754056493392
+status: 3
+tags: []
+user_id: franel

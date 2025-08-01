@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/783fb587254242909a106d0e10c18f1c/artifacts
+end_time: 1754045081501
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: 783fb587254242909a106d0e10c18f1c
+run_name: resilient-sow-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754045081474
+status: 3
+tags: []
+user_id: franel

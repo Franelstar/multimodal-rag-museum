@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/e7b583c417f54ff8980a0cf1c1b9c2dd/artifacts
+end_time: 1754040801275
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: e7b583c417f54ff8980a0cf1c1b9c2dd
+run_name: peaceful-finch-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754040801263
+status: 3
+tags: []
+user_id: franel

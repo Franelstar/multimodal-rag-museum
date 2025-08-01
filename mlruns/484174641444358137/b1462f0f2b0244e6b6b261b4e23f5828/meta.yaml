@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/b1462f0f2b0244e6b6b261b4e23f5828/artifacts
+end_time: 1753982656600
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: b1462f0f2b0244e6b6b261b4e23f5828
+run_name: clean-grouse-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753982656589
+status: 3
+tags: []
+user_id: franel

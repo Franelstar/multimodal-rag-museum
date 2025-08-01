@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/da1e5032e83d4058b813b45353abe70e/artifacts
+end_time: 1754042059309
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: da1e5032e83d4058b813b45353abe70e
+run_name: flawless-trout-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754042059269
+status: 3
+tags: []
+user_id: franel

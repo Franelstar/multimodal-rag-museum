@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/e1ad26bbd99b4362933a319cdfaa5ae8/artifacts
+end_time: 1754045090314
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: e1ad26bbd99b4362933a319cdfaa5ae8
+run_name: awesome-grub-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754045090266
+status: 3
+tags: []
+user_id: franel

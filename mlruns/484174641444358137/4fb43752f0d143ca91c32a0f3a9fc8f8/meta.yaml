@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/4fb43752f0d143ca91c32a0f3a9fc8f8/artifacts
+end_time: 1754039402602
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: 4fb43752f0d143ca91c32a0f3a9fc8f8
+run_name: abrasive-quail-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754039402562
+status: 3
+tags: []
+user_id: franel

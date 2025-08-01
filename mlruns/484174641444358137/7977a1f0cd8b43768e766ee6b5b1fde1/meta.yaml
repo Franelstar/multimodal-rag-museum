@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/7977a1f0cd8b43768e766ee6b5b1fde1/artifacts
+end_time: 1754040800248
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: 7977a1f0cd8b43768e766ee6b5b1fde1
+run_name: grandiose-horse-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754040800235
+status: 3
+tags: []
+user_id: franel

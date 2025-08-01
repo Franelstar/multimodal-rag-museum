@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/7ba91157873f409f9138ebf460d4deb0/artifacts
+end_time: 1754058227531
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: 7ba91157873f409f9138ebf460d4deb0
+run_name: masked-zebra-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754058227501
+status: 3
+tags: []
+user_id: franel

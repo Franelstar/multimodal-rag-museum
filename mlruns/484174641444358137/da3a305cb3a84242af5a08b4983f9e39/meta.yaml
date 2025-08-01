@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/da3a305cb3a84242af5a08b4983f9e39/artifacts
+end_time: 1754055140397
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: da3a305cb3a84242af5a08b4983f9e39
+run_name: blushing-smelt-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754055140370
+status: 3
+tags: []
+user_id: franel

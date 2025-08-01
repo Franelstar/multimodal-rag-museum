@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/96b817e19ee74a0a9a8703c888879ffd/artifacts
+end_time: 1754039483252
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: 96b817e19ee74a0a9a8703c888879ffd
+run_name: dapper-donkey-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754039483214
+status: 3
+tags: []
+user_id: franel

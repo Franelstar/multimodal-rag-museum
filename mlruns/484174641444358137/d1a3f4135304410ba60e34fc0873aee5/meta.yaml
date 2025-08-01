@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/d1a3f4135304410ba60e34fc0873aee5/artifacts
+end_time: 1754038938669
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: d1a3f4135304410ba60e34fc0873aee5
+run_name: resilient-worm-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754038938656
+status: 3
+tags: []
+user_id: franel

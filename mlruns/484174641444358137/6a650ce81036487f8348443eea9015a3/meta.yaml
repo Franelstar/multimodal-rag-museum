@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/6a650ce81036487f8348443eea9015a3/artifacts
+end_time: 1754057382898
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: 6a650ce81036487f8348443eea9015a3
+run_name: dashing-robin-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754057382868
+status: 3
+tags: []
+user_id: franel

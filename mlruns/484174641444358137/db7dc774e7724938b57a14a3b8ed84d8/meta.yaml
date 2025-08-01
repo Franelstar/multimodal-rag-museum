@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/db7dc774e7724938b57a14a3b8ed84d8/artifacts
+end_time: 1754042661083
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: db7dc774e7724938b57a14a3b8ed84d8
+run_name: mercurial-dolphin-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754042661056
+status: 3
+tags: []
+user_id: franel

@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/a5ce60a1b00b47f79e97fe0c2fa334db/artifacts
+end_time: 1754056474291
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: a5ce60a1b00b47f79e97fe0c2fa334db
+run_name: ambitious-conch-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754056474262
+status: 3
+tags: []
+user_id: franel

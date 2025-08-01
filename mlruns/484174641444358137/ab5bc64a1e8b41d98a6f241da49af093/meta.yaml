@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/ab5bc64a1e8b41d98a6f241da49af093/artifacts
+end_time: 1754038439413
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: ab5bc64a1e8b41d98a6f241da49af093
+run_name: suave-newt-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754038439379
+status: 3
+tags: []
+user_id: franel

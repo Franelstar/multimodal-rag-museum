@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/725212db057f4f6891f21640aaf0ee49/artifacts
+end_time: 1753965059276
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: 725212db057f4f6891f21640aaf0ee49
+run_name: angry-wren-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753965059263
+status: 3
+tags: []
+user_id: franel

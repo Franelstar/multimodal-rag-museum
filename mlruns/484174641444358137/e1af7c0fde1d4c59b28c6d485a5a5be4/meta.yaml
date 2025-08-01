@@ -1,0 +1,14 @@
+artifact_uri: /home/franel/Documents/E-market/multimodal-rag-museum/mlruns/484174641444358137/e1af7c0fde1d4c59b28c6d485a5a5be4/artifacts
+end_time: 1754058420232
+entry_point_name: ''
+experiment_id: '484174641444358137'
+lifecycle_stage: active
+run_id: e1af7c0fde1d4c59b28c6d485a5a5be4
+run_name: popular-hare-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754058420202
+status: 3
+tags: []
+user_id: franel
