@@ -23,7 +23,7 @@ jobs:
         git config --global user.name "GitHub Actions Bot"
         
         # Utiliser le token HF pour l'authentification
-        git remote add hf https://franel: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@huggingface.co/spaces/franel/multimodal-rag-museum
+        git remote add hf https://franel@huggingface.co/spaces/franel/multimodal-rag-museum
         
         # Pousser vers HF Spaces
         git push hf main --force
