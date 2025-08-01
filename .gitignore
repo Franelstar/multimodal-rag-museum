@@ -4,6 +4,13 @@ data.*
 # C extensions
 *.so
 
+# Secrets et tokens
+.env
+.env.local
+.env.*.local
+config_local.py
+secrets.py
+
 # Distribution / packaging
 .Python
 build/

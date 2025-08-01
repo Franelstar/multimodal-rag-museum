@@ -3,6 +3,9 @@
 import os
 from dataclasses import dataclass
 from typing import Optional
+from dotenv import load_dotenv
+
+load_dotenv()
 
 @dataclass
 class Config:
@@ -20,7 +23,7 @@ class Config:
     # API
     API_HOST: str = "0.0.0.0"
     API_PORT: int = 8000
-    HF_API_TOKEN: Optional[str] = "???"
+    HF_API_TOKEN: Optional[str] = os.getenv("HF_API_TOKEN")
     
     # Monitoring
     MLFLOW_TRACKING_URI: str = "./mlruns"
