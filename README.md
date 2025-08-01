@@ -1,5 +1,10 @@
 # Assistant Culturel Multimodal - Projet RAG MLOps
 
+[![CI/CD Pipeline](https://github.com/votre-username/multimodal-rag-museum/actions/workflows/ci_cd.yml/badge.svg)](https://github.com/votre-username/multimodal-rag-museum/actions)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/votre-username/multimodal-rag-museum)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Un système RAG (Retrieval-Augmented Generation) multimodal qui combine vision par ordinateur et traitement du langage naturel pour créer un assistant intelligent spécialisé dans l'analyse d'œuvres d'art.
 
 ## Description du projet
