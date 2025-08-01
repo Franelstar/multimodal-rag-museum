@@ -9,16 +9,21 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout code
+      uses: actions/checkout@v3
       with:
         fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Push to Hugging Face Spaces
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
+        git config --global user.email "github-actions@github.com"
+        git config --global user.name "GitHub Actions Bot"
         
-        git remote add hf https://huggingface.co/spaces/franel/multimodal-rag-museum
-        git push hf main
+        # Utiliser le token HF pour l'authentification
+        git remote add hf https://franel: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@huggingface.co/spaces/franel/multimodal-rag-museum
+        
+        # Pousser vers HF Spaces
+        git push hf main --force
